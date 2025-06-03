@@ -28,7 +28,7 @@ nhiều dòng
 ## In ra màn hình trong JavaScript
 Sử dụng lệnh:
 ```javascript
-console.log("Nội dung cần in ra màn hình");
+console.log("Nội dung cần in ra màn hình");     
 ```
 Ví dụ:
 ```javascript

@@ -15,5 +15,6 @@
 // Viết file .js và nhúng vào HTML
 // Chạy bằng Node.js trên máy tính
 // Ví dụ: In ra dòng chữ "Hello, JavaScript!" trong file day01.js
-console.log("hello Javascript!")
+console.log("hello Javascript! xyz")
+
 
