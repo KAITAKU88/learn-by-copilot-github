@@ -10,3 +10,7 @@ Mở copilot github tự viết code:
 Bắt đầu chat:
     Ctrl + Shift I
 
+Cách mở hoặc di chuyển vào cửa sổ terminal trong VSCode bằng phím tắt, bạn sử dụng:
+    Ctrl + ` (dấu huyền, thường nằm dưới phím Esc)  
+Phím tắt này sẽ mở hoặc chuyển nhanh vào terminal tích hợp của VSCode. Nếu terminal đã mở, bạn sẽ được đưa ngay vào cửa sổ terminal để nhập lệnh.
+
