@@ -2,8 +2,8 @@
 
 #### Tuần 1: Kiến thức cơ bản
 
-- **Ngày 2:** Cách nhúng JavaScript vào HTML (thẻ `<script>`).
-- **Ngày 3:** Biến: var, let, const.
+<!-- - **Ngày 2:** Cách nhúng JavaScript vào HTML (thẻ `<script>`).
+- **Ngày 3:** Biến: var, let, const. -->
 - **Ngày 4:** Kiểu dữ liệu: Number, String, Boolean, Null, Undefined.
 - **Ngày 5:** Kiểu dữ liệu: Object, Array.
 - **Ngày 6:** Toán tử số học, so sánh, logic.
