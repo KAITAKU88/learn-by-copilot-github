@@ -1,7 +1,7 @@
 ### Lộ trình học JavaScript 30 ngày (bắt đầu từ 02/06/2025)
 
 #### Tuần 1: Kiến thức cơ bản
-- **Ngày 1 (02/06):** Giới thiệu về JavaScript, ứng dụng thực tế.
+
 - **Ngày 2:** Cách nhúng JavaScript vào HTML (thẻ `<script>`).
 - **Ngày 3:** Biến: var, let, const.
 - **Ngày 4:** Kiểu dữ liệu: Number, String, Boolean, Null, Undefined.
