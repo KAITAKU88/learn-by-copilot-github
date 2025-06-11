@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href = "styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="example relative">
+            <div class="item">
+                <img src="./image/static.svg" alt="Static Image">
+            </div>
+            <div class="item item-relative">
+                <img src="./image/relative.svg" alt="Relative Image">
+            </div>
+            <div class="item">
+                <img src="./image/static.svg">
+            </div>
+        </div>
+    </div>
+    <!--  -->
+    <div class='container'>
+        <div class='example absolute'>
+            <div class='item'>
+                <img src='./image/static.svg'>
+            </div>
+            <div class='item item-absolute'>
+                <img src='./image/absolute.svg'>
+            </div>
+            <div class='item'>
+                <img src='./image/static.svg'>
+            </div>  
+        </div>
+    </div>
+    <!--  -->
+    <div class='container'>
+        <div class='example fixed'>
+            <div class='item'>
+                <img src='./image/static.svg' >
+            </div>
+            <div class='item item-fixed'>
+                <a rel="" href="">
+                    <img src='./image/fixed.svg' >  
+                </a>
+            </div>
+            <div class='item'>
+                <img src='./image/static.svg' >
+            </div>
+        </div>
+    </div>
+
+    <!--  -->
+    <script>
+        let left = 0;
+
+        function frame() {
+            let element = document.querySelector('.item-relative');
+            left += 2;
+            element.style.left = left + 'px';
+            if (left >= 300) {
+            clearInterval(id)
+            }
+        }
+
+        let id = setInterval(frame, 10)
+    </script>
+</body>
+</html>
